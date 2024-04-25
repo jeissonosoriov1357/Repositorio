@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+
+            android:title="@string/cemento" />
+        <item
+            android:id="@+id/nav_gallery"
+
+            android:title="@string/Columna" />
+        <item
+            android:id="@+id/nav_slideshow"
+
+            android:title="@string/Concreto" />
+        <item
+            android:id="@+id/ingcivil"
+
+            android:title="@string/ingenierocivil" />
+        <item
+            android:id="@+id/ing"
+
+            android:title="@string/ingeniero" />
+        <item
+            android:id="@+id/nsr10"
+
+            android:title="@string/nsr10" />
+        <item
+            android:id="@+id/Plano"
+
+            android:title="@string/plano1" />
+        <item
+            android:id="@+id/proyecto"
+
+            android:title="@string/proyecto" />
+        <item
+            android:id="@+id/prueba"
+
+            android:title="@string/prueba" />
+        <item
+            android:id="@+id/reparar"
+
+            android:title="@string/reparar" />
+        <item
+            android:id="@+id/resolucion"
+
+            android:title="@string/resolucion1" />
+        <item
+            android:id="@+id/solido"
+
+            android:title="@string/solido" />
+        <item
+            android:id="@+id/suelo"
+
+            android:title="@string/suelo" />
+        <item
+            android:id="@+id/unidad"
+
+            android:title="@string/unidad" />
+        <item
+            android:id="@+id/vigas"
+
+            android:title="@string/vigas" />
+        <item
+            android:id="@+id/zapata"
+
+            android:title="@string/zapata" />
+    </group>
+</menu>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+
+            android:title="@string/affter_effects" />
+        <item
+            android:id="@+id/nav_gallery"
+
+            android:title="@string/analisis" />
+        <item
+            android:id="@+id/nav_slideshow"
+
+            android:title="@string/aplicaciones" />
+        <item
+            android:id="@+id/ingcivil"
+
+            android:title="@string/archivo" />
+        <item
+            android:id="@+id/ing"
+
+            android:title="@string/area_de_trabajo" />
+        <item
+            android:id="@+id/nsr10"
+
+            android:title="@string/barra_de_desplazamiento" />
+        <item
+            android:id="@+id/Plano"
+
+            android:title="@string/barra_de_menus" />
+        <item
+            android:id="@+id/proyecto"
+
+            android:title="@string/bases_de_datos" />
+        <item
+            android:id="@+id/prueba"
+
+            android:title="@string/brief" />
+        <item
+            android:id="@+id/reparar"
+
+            android:title="@string/capas" />
+        <item
+            android:id="@+id/resolucion"
+
+            android:title="@string/captura" />
+        <item
+            android:id="@+id/solido"
+
+            android:title="@string/composicion" />
+        <item
+            android:id="@+id/suelo"
+
+            android:title="@string/controladores" />
+        <item
+            android:id="@+id/unidad"
+
+            android:title="@string/css" />
+        <item
+            android:id="@+id/vigas"
+
+            android:title="@string/efectos" />
+        <item
+            android:id="@+id/zapata"
+
+            android:title="@string/escritorio" />
+        <item
+            android:id="@+id/fotogramakeyframe"
+
+            android:title="@string/fotograma" />
+        <item
+            android:id="@+id/gps2"
+
+            android:title="@string/gps" />
+        <item
+            android:id="@+id/guionliterario"
+
+            android:title="@string/guion" />
+        <item
+            android:id="@+id/herramientas2"
+
+            android:title="@string/herramientas" />
+        <item
+            android:id="@+id/icono2"
+
+            android:title="@string/icono" />
+        <item
+            android:id="@+id/imagenvectoriall"
+
+            android:title="@string/vectorial" />
+        <item
+            android:id="@+id/imagotipo2"
+
+            android:title="@string/imagotipo" />
+        <item
+            android:id="@+id/insertarimagen"
+
+            android:title="@string/imagen" />
+        <item
+            android:id="@+id/logo2"
+
+            android:title="@string/logo" />
+        <item
+            android:id="@+id/mapajerarquico"
+
+            android:title="@string/jerarquico" />
+        <item
+            android:id="@+id/mapalineal"
+
+            android:title="@string/lineal" />
+        <item
+            android:id="@+id/objetos3d"
+
+            android:title="@string/objetos" />
+        <item
+            android:id="@+id/onlineweb"
+
+            android:title="@string/online" />
+        <item
+            android:id="@+id/paneldeherramientas"
+
+            android:title="@string/panelh" />
+        <item
+            android:id="@+id/paneldeproyectos"
+
+            android:title="@string/panelp" />
+        <item
+            android:id="@+id/paneles2"
+
+            android:title="@string/paneles" />
+        <item
+            android:id="@+id/pistasdeaudio"
+
+            android:title="@string/pistaaudio" />
+        <item
+            android:id="@+id/pistasdevideo"
+
+            android:title="@string/pistavideo" />
+        <item
+            android:id="@+id/pixel2"
+
+            android:title="@string/pixel" />
+        <item
+            android:id="@+id/plano2"
+
+            android:title="@string/plano" />
+        <item
+            android:id="@+id/pluma2"
+
+            android:title="@string/pluma" />
+        <item
+            android:id="@+id/propiedades2"
+
+            android:title="@string/propiedades" />
+        <item
+            android:id="@+id/prototipo2"
+
+            android:title="@string/prototipo" />
+        <item
+            android:id="@+id/puntero2"
+
+            android:title="@string/puntero" />
+        <item
+            android:id="@+id/rgb2"
+
+            android:title="@string/rgb" />
+        <item
+            android:id="@+id/resolucion2"
+
+            android:title="@string/resolucion" />
+        <item
+            android:id="@+id/rotacion2"
+
+            android:title="@string/rotacion" />
+        <item
+            android:id="@+id/sms2"
+
+            android:title="@string/sms" />
+        <item
+            android:id="@+id/sliderweb"
+
+            android:title="@string/slider" />
+        <item
+            android:id="@+id/storyboard2"
+
+            android:title="@string/storyboard" />
+        <item
+            android:id="@+id/telefonointeligente"
+
+            android:title="@string/telefono" />
+        <item
+            android:id="@+id/tipodefuente"
+
+            android:title="@string/fuente" />
+        <item
+            android:id="@+id/tipodeplano"
+
+            android:title="@string/tipop" />
+        <item
+            android:id="@+id/transiciones2"
+
+            android:title="@string/transiciones" />
+        <item
+            android:id="@+id/varitamagica"
+
+            android:title="@string/varita" />
+        <item
+            android:id="@+id/webmasterr"
+
+            android:title="@string/master" />
+        <item
+            android:id="@+id/webservice"
+
+            android:title="@string/service" />
+        <item
+            android:id="@+id/zoom2"
+
+            android:title="@string/zoom" />
+    </group>
+</menu>

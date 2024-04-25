@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.repositorio.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.repositorio.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.repositorio.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/ingcivil"
+        android:name="com.example.repositorio.Archivo"
+        android:label="@string/menu_archivo"
+        tools:layout="@layout/fragment_archivo" />
+    <fragment
+        android:id="@+id/ing"
+        android:name="com.example.repositorio.Areadetrabajo"
+        android:label="fragment_areadetrabajo"
+        tools:layout="@layout/fragment_areadetrabajo" />
+    <fragment
+        android:id="@+id/nsr10"
+        android:name="com.example.repositorio.Barradedesplazamiento"
+        android:label="@string/menu_barradedesplazamiento"
+        tools:layout="@layout/fragment_barradedesplazamiento" />
+    <fragment
+        android:id="@+id/Plano"
+        android:name="com.example.repositorio.Barrasdemenu"
+        android:label="@string/menu_barrasdemenu"
+        tools:layout="@layout/fragment_barrasdemenu" />
+    <fragment
+        android:id="@+id/proyecto"
+        android:name="com.example.repositorio.Basesdedatos"
+        android:label="@string/menu_basesdedatos"
+        tools:layout="@layout/fragment_basesdedatos" />
+    <fragment
+        android:id="@+id/prueba"
+        android:name="com.example.repositorio.Brief"
+        android:label="@string/menu_brief"
+        tools:layout="@layout/fragment_brief" />
+    <fragment
+        android:id="@+id/reparar"
+        android:name="com.example.repositorio.Capas"
+        android:label="@string/capas"
+        tools:layout="@layout/fragment_capas" />
+    <fragment
+        android:id="@+id/resolucion"
+        android:name="com.example.repositorio.Capturadepantalla"
+        android:label="@string/captura"
+        tools:layout="@layout/fragment_capturadepantalla" />
+    <fragment
+        android:id="@+id/solido"
+        android:name="com.example.repositorio.Composicion"
+        android:label="@string/composicion"
+        tools:layout="@layout/fragment_composicion" />
+    <fragment
+        android:id="@+id/suelo"
+        android:name="com.example.repositorio.Controladores"
+        android:label="@string/controladores"
+        tools:layout="@layout/fragment_controladores" />
+    <fragment
+        android:id="@+id/unidad"
+        android:name="com.example.repositorio.Css"
+        android:label="@string/css"
+        tools:layout="@layout/fragment_css" />
+    <fragment
+        android:id="@+id/vigas"
+        android:name="com.example.repositorio.Efectos"
+        android:label="@string/efectos"
+        tools:layout="@layout/fragment_efectos" />
+    <fragment
+        android:id="@+id/zapata"
+        android:name="com.example.repositorio.Escritorio"
+        android:label="@string/escritorio"
+        tools:layout="@layout/fragment_escritorio" />
+    <fragment
+        android:id="@+id/fotogramakeyframe"
+        android:name="com.example.repositorio.Fotogramakeyframe"
+        android:label="@string/fotograma"
+        tools:layout="@layout/fragment_fotogramakeyframe" />
+    <fragment
+        android:id="@+id/gps2"
+        android:name="com.example.repositorio.Gps"
+        android:label="@string/gps"
+        tools:layout="@layout/fragment_gps" />
+    <fragment
+        android:id="@+id/guionliterario"
+        android:name="com.example.repositorio.Guionliterario"
+        android:label="@string/guion"
+        tools:layout="@layout/fragment_guionliterario" />
+    <fragment
+        android:id="@+id/herramientas2"
+        android:name="com.example.repositorio.Herramientas"
+        android:label="@string/herramientas"
+        tools:layout="@layout/fragment_herramientas" />
+    <fragment
+        android:id="@+id/icono2"
+        android:name="com.example.repositorio.Icono"
+        android:label="@string/icono"
+        tools:layout="@layout/fragment_icono" />
+    <fragment
+        android:id="@+id/imagenvectorial"
+        android:name="com.example.repositorio.Imagenvectorial"
+        android:label="@string/vectorial"
+        tools:layout="@layout/fragment_imagenvectorial" />
+    <fragment
+        android:id="@+id/imagotipo2"
+        android:name="com.example.repositorio.Imagotipo"
+        android:label="@string/imagotipo"
+        tools:layout="@layout/fragment_imagotipo" />
+    <fragment
+        android:id="@+id/insertarimagen"
+        android:name="com.example.repositorio.Insertarimagen"
+        android:label="@string/imagen"
+        tools:layout="@layout/fragment_insertarimagen" />
+    <fragment
+        android:id="@+id/logo2"
+        android:name="com.example.repositorio.Logo"
+        android:label="@string/logo"
+        tools:layout="@layout/fragment_logo" />
+    <fragment
+        android:id="@+id/mapajerarquico"
+        android:name="com.example.repositorio.Mapajerarquico"
+        android:label="@string/jerarquico"
+        tools:layout="@layout/fragment_mapajerarquico" />
+    <fragment
+        android:id="@+id/mapalineal"
+        android:name="com.example.repositorio.Mapalineal"
+        android:label="@string/lineal"
+        tools:layout="@layout/fragment_mapalineal" />
+    <fragment
+        android:id="@+id/objetos3d"
+        android:name="com.example.repositorio.Objetos3d"
+        android:label="@string/objetos"
+        tools:layout="@layout/fragment_objetos3d" />
+    <fragment
+        android:id="@+id/onlineweb"
+        android:name="com.example.repositorio.Onlineweb"
+        android:label="@string/online"
+        tools:layout="@layout/fragment_onlineweb" />
+    <fragment
+        android:id="@+id/paneldeherramientas"
+        android:name="com.example.repositorio.Paneldeherramientas"
+        android:label="@string/panelh"
+        tools:layout="@layout/fragment_paneldeherramientas" />
+    <fragment
+        android:id="@+id/paneldeproyectos"
+        android:name="com.example.repositorio.Paneldeproyectos"
+        android:label="@string/panelp"
+        tools:layout="@layout/fragment_paneldeproyectos" />
+    <fragment
+        android:id="@+id/paneles2"
+        android:name="com.example.repositorio.Paneles"
+        android:label="@string/paneles"
+        tools:layout="@layout/fragment_paneles" />
+    <fragment
+        android:id="@+id/pistasdeaudio"
+        android:name="com.example.repositorio.Pistasdeaudio"
+        android:label="@string/pistaaudio"
+        tools:layout="@layout/fragment_pistasdeaudio" />
+    <fragment
+        android:id="@+id/pistasdevideo"
+        android:name="com.example.repositorio.Pistasdevideo"
+        android:label="@string/pistavideo"
+        tools:layout="@layout/fragment_pistasdevideo" />
+    <fragment
+        android:id="@+id/pixel2"
+        android:name="com.example.repositorio.Pixel"
+        android:label="@string/pixel"
+        tools:layout="@layout/fragment_pixel" />
+    <fragment
+        android:id="@+id/plano2"
+        android:name="com.example.repositorio.Plano"
+        android:label="@string/plano"
+        tools:layout="@layout/fragment_plano" />
+    <fragment
+        android:id="@+id/pluma2"
+        android:name="com.example.repositorio.Pluma"
+        android:label="@string/pluma"
+        tools:layout="@layout/fragment_pluma" />
+    <fragment
+        android:id="@+id/propiedades2"
+        android:name="com.example.repositorio.Propiedades"
+        android:label="@string/propiedades"
+        tools:layout="@layout/fragment_propiedades" />
+    <fragment
+        android:id="@+id/prototipo2"
+        android:name="com.example.repositorio.Prototipo"
+        android:label="@string/prototipo"
+        tools:layout="@layout/fragment_prototipo" />
+    <fragment
+        android:id="@+id/puntero2"
+        android:name="com.example.repositorio.Puntero"
+        android:label="@string/puntero"
+        tools:layout="@layout/fragment_puntero" />
+    <fragment
+        android:id="@+id/rgb2"
+        android:name="com.example.repositorio.rgb"
+        android:label="@string/rgb"
+        tools:layout="@layout/fragment_rgb" />
+    <fragment
+        android:id="@+id/resolucion2"
+        android:name="com.example.repositorio.Resolucion"
+        android:label="@string/resolucion"
+        tools:layout="@layout/fragment_resolucion" />
+    <fragment
+        android:id="@+id/rotacion2"
+        android:name="com.example.repositorio.Rotacion"
+        android:label="@string/rotacion"
+        tools:layout="@layout/fragment_rotacion" />
+    <fragment
+        android:id="@+id/sms2"
+        android:name="com.example.repositorio.sms"
+        android:label="@string/sms"
+        tools:layout="@layout/fragment_sms" />
+    <fragment
+        android:id="@+id/sliderweb"
+        android:name="com.example.repositorio.Sliderweb"
+        android:label="@string/slider"
+        tools:layout="@layout/fragment_sliderweb" />
+    <fragment
+        android:id="@+id/storyboard2"
+        android:name="com.example.repositorio.Storyboard"
+        android:label="@string/storyboard"
+        tools:layout="@layout/fragment_storyboard" />
+    <fragment
+        android:id="@+id/telefonointeligente"
+        android:name="com.example.repositorio.Telefonointeligente"
+        android:label="@string/telefono"
+        tools:layout="@layout/fragment_telefonointeligente" />
+    <fragment
+        android:id="@+id/tipodefuente"
+        android:name="com.example.repositorio.Tipodefuente"
+        android:label="@string/fuente"
+        tools:layout="@layout/fragment_tipodefuente" />
+    <fragment
+        android:id="@+id/tipodeplano"
+        android:name="com.example.repositorio.Tipodeplano"
+        android:label="@string/tipop"
+        tools:layout="@layout/fragment_tipodeplano" />
+    <fragment
+        android:id="@+id/transiciones2"
+        android:name="com.example.repositorio.Transiciones"
+        android:label="@string/transiciones"
+        tools:layout="@layout/fragment_transiciones" />
+    <fragment
+        android:id="@+id/varitamagica"
+        android:name="com.example.repositorio.Varitamagica"
+        android:label="@string/varita"
+        tools:layout="@layout/fragment_varitamagica" />
+    <fragment
+        android:id="@+id/webmaster"
+        android:name="com.example.repositorio.Webmaster"
+        android:label="@string/master"
+        tools:layout="@layout/fragment_webmaster" />
+    <fragment
+        android:id="@+id/webservice"
+        android:name="com.example.repositorio.Webservice"
+        android:label="@string/service"
+        tools:layout="@layout/fragment_webservice" />
+    <fragment
+        android:id="@+id/zoom2"
+        android:name="com.example.repositorio.Zoom"
+        android:label="@string/zoom"
+        tools:layout="@layout/fragment_zoom" />
+</navigation>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation2"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.repositorio.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.repositorio.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.repositorio.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/ingcivil2"
+        android:name="com.example.repositorio.ingcivil"
+        android:label="fragment_ingcivil"
+        tools:layout="@layout/fragment_ingcivil" />
+    <fragment
+        android:id="@+id/ingeniero"
+        android:name="com.example.repositorio.ingeniero"
+        android:label="fragment_ingeniero"
+        tools:layout="@layout/fragment_ingeniero" />
+    <fragment
+        android:id="@+id/nsr102"
+        android:name="com.example.repositorio.nsr10"
+        android:label="fragment_nsr10"
+        tools:layout="@layout/fragment_nsr10" />
+    <fragment
+        android:id="@+id/planoconst"
+        android:name="com.example.repositorio.planoconst"
+        android:label="fragment_planoconst"
+        tools:layout="@layout/fragment_planoconst" />
+    <fragment
+        android:id="@+id/proyecto2"
+        android:name="com.example.repositorio.proyecto"
+        android:label="fragment_proyecto"
+        tools:layout="@layout/fragment_proyecto" />
+    <fragment
+        android:id="@+id/prueba2"
+        android:name="com.example.repositorio.prueba"
+        android:label="fragment_prueba"
+        tools:layout="@layout/fragment_prueba" />
+    <fragment
+        android:id="@+id/reparar2"
+        android:name="com.example.repositorio.reparar"
+        android:label="fragment_reparar"
+        tools:layout="@layout/fragment_reparar" />
+    <fragment
+        android:id="@+id/resolucionn"
+        android:name="com.example.repositorio.resolucionn"
+        android:label="fragment_resolucionn"
+        tools:layout="@layout/fragment_resolucionn" />
+    <fragment
+        android:id="@+id/solido2"
+        android:name="com.example.repositorio.solido"
+        android:label="fragment_solido"
+        tools:layout="@layout/fragment_solido" />
+    <fragment
+        android:id="@+id/suelo2"
+        android:name="com.example.repositorio.suelo"
+        android:label="fragment_suelo"
+        tools:layout="@layout/fragment_suelo" />
+    <fragment
+        android:id="@+id/unidad2"
+        android:name="com.example.repositorio.unidad"
+        android:label="fragment_unidad"
+        tools:layout="@layout/fragment_unidad" />
+</navigation>

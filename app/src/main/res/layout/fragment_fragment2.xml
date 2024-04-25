@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragment2">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/Repositorio_de_Señas">
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/youtube_player_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:autoPlay="false"
+            app:videoId="lHoROgaNAAU" />
+    </ScrollView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/tab_text_2"
+        android:layout_marginTop="105pt">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senaa"
+                android:contentDescription="@string/senaa" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senab"
+                android:contentDescription="@string/senab" />
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senac"
+                android:contentDescription="@string/senac" />
+
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senad"
+                android:contentDescription="@string/senad" />
+
+            <ImageView
+                android:id="@+id/imageView9"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senae"
+                android:contentDescription="@string/senae" />
+
+            <ImageView
+                android:id="@+id/imageView10"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senaf"
+                android:contentDescription="@string/senaf" />
+
+            <ImageView
+                android:id="@+id/imageView11"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senag"
+                android:contentDescription="@string/senag" />
+
+            <ImageView
+                android:id="@+id/imageView12"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senah"
+                android:contentDescription="@string/senah" />
+
+            <ImageView
+                android:id="@+id/imageView13"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senai"
+                android:contentDescription="@string/senai" />
+
+            <ImageView
+                android:id="@+id/imageView14"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senaj"
+                android:contentDescription="@string/senaj" />
+
+            <ImageView
+                android:id="@+id/imageView15"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senak"
+                android:contentDescription="@string/senak" />
+
+            <ImageView
+                android:id="@+id/imageView16"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senal"
+                android:contentDescription="@string/senal" />
+
+            <ImageView
+                android:id="@+id/imageView17"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senam"
+                android:contentDescription="@string/senam" />
+
+            <ImageView
+                android:id="@+id/imageView18"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senan"
+                android:contentDescription="@string/senan" />
+
+            <ImageView
+                android:id="@+id/imageView19"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senann"
+                android:contentDescription="@string/senann" />
+
+            <ImageView
+                android:id="@+id/imageView20"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senao"
+                android:contentDescription="@string/senao" />
+
+            <ImageView
+                android:id="@+id/imageView21"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senap"
+                android:contentDescription="@string/senap" />
+
+            <ImageView
+                android:id="@+id/imageView22"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senaq"
+                android:contentDescription="@string/senaq" />
+
+            <ImageView
+                android:id="@+id/imageView23"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senar"
+                android:contentDescription="@string/senar" />
+
+            <ImageView
+                android:id="@+id/imageView24"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senas"
+                android:contentDescription="@string/senas" />
+
+            <ImageView
+                android:id="@+id/imageView25"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senat"
+                android:contentDescription="@string/senat" />
+
+            <ImageView
+                android:id="@+id/imageView26"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senau"
+                android:contentDescription="@string/senau" />
+
+            <ImageView
+                android:id="@+id/imageView27"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senav"
+                android:contentDescription="@string/senav" />
+
+            <ImageView
+                android:id="@+id/imageView28"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senaw"
+                android:contentDescription="@string/senaw" />
+
+            <ImageView
+                android:id="@+id/imageView29"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senax"
+                android:contentDescription="@string/senax" />
+
+            <ImageView
+                android:id="@+id/imageView30"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senay"
+                android:contentDescription="@string/senay" />
+
+            <ImageView
+                android:id="@+id/imageView31"
+                android:layout_width="match_parent"
+                android:layout_height="150pt"
+                android:src="@drawable/senaz"
+                android:contentDescription="@string/senaz" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</FrameLayout>

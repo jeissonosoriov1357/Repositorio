@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/drawable/border.xml" value="0.197" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/drawable/ic_launcher_background.xml" value="0.197" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/drawable/side_nav_bar.xml" value="0.197" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/abecedariofragment.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/activity_construccion.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/activity_menu.xml" value="0.33" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/activity_produccion_multimedia.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/app_bar_activity_construccion.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/app_bar_produccion_multimedia.xml" value="0.25" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/content_activity_construccion.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/content_produccion_multimedia.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment__abecedario.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_affter_effects.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_archivo.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_areadetrabajo.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_barradedesplazamiento.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_barrasdemenu.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_basesdedatos.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_brief.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_capas.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_capturadepantalla.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_composicion.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_controladores.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_css.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_efectos.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_escritorio.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_fotogramakeyframe.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_fragment1.xml" value="0.25" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_fragment2.xml" value="0.1" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_fragment3.xml" value="0.22" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_gallery.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_gps.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_guionliterario.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_herramientas.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_home.xml" value="0.16" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_icono.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_imagenvectorial.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_imagotipo.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_ingcivil.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_ingeniero.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_inicio.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_insertarimagen.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_logo.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_main.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_mapajerarquico.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_mapalineal.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_menu_.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_nsr10.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_objetos3d.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_onlineweb.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_paneldeherramientas.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_paneldeproyectos.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_paneles.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_pistasdeaudio.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_pistasdevideo.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_pixel.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_plano.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_planoconst.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_pluma.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_propiedades.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_prototipo.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_proyecto.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_prueba.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_puntero.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_reparar.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_resolucion.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_resolucionn.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_rgb.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_rotacion.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_sliderweb.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_slideshow.xml" value="0.18" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_sms.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_storyboard.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_telefonointeligente.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_tipodefuente.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_tipodeplano.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_transiciones.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_varitamagica.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_webmaster.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_webservice.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/fragment_zoom.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/iniciofragment.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/list_element.xml" value="0.22" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/nav_header_activity_construccion.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/layout/nav_header_produccion_multimedia.xml" value="0.25" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/menu/activity_construccion.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/menu/activity_main_drawer_construccion.xml" value="0.33" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/menu/produccion_multimedia.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jeiss/AndroidStudioProjects/Repositorio/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.197" />
+        <entry key="..\:/Users/jeiss/Documentos/Repositorio/app/src/main/res/layout/activity_construccion.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/jeiss/Documentos/Repositorio/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/jeiss/Documentos/Repositorio/app/src/main/res/layout/activity_produccion_multimedia.xml" value="0.17481884057971014" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
